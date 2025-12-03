@@ -68,3 +68,6 @@ Regions needing additional enforcement or safety measures.
 📌 **Conclusion**
 The dashboard integrates multiple tools—Power BI Desktop, DAX, Power Query, cloud storage, and map analytics—to provide a complete, interactive view of UK road safety trends. 
 It equips policymakers, analysts, and safety departments with insights to improve road and traffic management.
+
+https://github.com/deepakdysn/UK-RoadAccidentAnalysis/blob/main/Road%20Accident%20Analysis.png
+
